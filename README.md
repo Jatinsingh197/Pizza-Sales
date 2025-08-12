@@ -1,4 +1,5 @@
-Sales Dashboard
+Sales Dashboard 
+
 Recommended Structure and Order
 1. 🍕 Pizza Sales Analysis
 This project analyzes pizza sales data to uncover key business insights. Using Power BI, I built an interactive dashboard that highlights:
