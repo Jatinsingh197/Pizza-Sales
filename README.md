@@ -1,4 +1,4 @@
-Sales Dashboard 
+Sales Dashboard
 
 Recommended Structure and Order
 1. 🍕 Pizza Sales Analysis
@@ -30,6 +30,6 @@ https://github.com/Ayushi0214/Datasets/blob/main/pizza_sales/pizzas.csv
 
 5. Screenshots
 
-Show what the dashboard looks like. - 
+Show what the dashboard looks like. - Alt text Example: 
 
 https://github.com/Jatinsingh197/Pizza-Sales/blob/main/Screenshot%202025-08-12%20160816.png
